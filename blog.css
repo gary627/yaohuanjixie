@@ -65,7 +65,7 @@
 .clearfix { display: block; }
 *+html .clearfix { min-height:1%; }
 
-.artical{ padding:24px 8% 0; clear:both; zoom:1;}
+.artical{ padding:24px 15% 0; clear:both; zoom:1;}
 .artical .jiugongge{text-align: right; padding-top: 20px; padding-bottom: 40px; width: 490px;}
 .artical .jiugongge .SG_aBtn{margin-right:0;}
 .articalTitle{ clear:both; line-height:20px; padding-bottom:10px;}
