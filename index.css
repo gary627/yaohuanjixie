@@ -128,11 +128,11 @@ background-color: #fff;
 }
 
 /* 头图 (背景、高度)*/
-.sinablogb{background-image: url(../../../image/30/30_1/images/sinablogb.jpg); }
+.sinablogb{background-image: ''; }
 .sinabloghead{height: 265px;}
 
 /* 尾图 (背景、高度) */
-.sinabloga{ background-image: url(../../../image/30/30_1/images/sinabloga.jpg);}
+.sinabloga{ background-image: '';}
 .sinablogfooter{ height:150px;}
 
 /* 标题 (位置)*/
