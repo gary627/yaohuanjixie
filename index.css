@@ -4,7 +4,7 @@
 /*文字色*/
 
 /* 基本正文字色（博文正文文字默认颜色） */
-body{ color:#464646;}
+body{ color:#191919;}
 /* 基本链接字色（默认链接） */
 a,
 a:link,
@@ -120,7 +120,7 @@ a.SG_aBtn:visited{color:#333;}
 
 /* 背景 */
 body{
-background-color: #BCD3E5;
+background-color: #fff;
 /*
 循环背景图
  background-image:url();
